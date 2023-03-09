@@ -8,10 +8,8 @@ xcuserdata
 *.sublime-*
 test/functional/_joined
 *.iml
-!sample-code/java/*.iml
 *.autosave
 .idea/
-!sample-code/java/.idea/
 *.log
 *.t
 artifacts
@@ -41,7 +39,6 @@ old
 coverage
 docs/mkdocs.yml
 sample-code/javascript-wd/node_modules
-sample-code/java/out/
 sample-code/ruby/Gemfile.lock
 sample-code/python/test/results/
 sample-code/python/test/input
